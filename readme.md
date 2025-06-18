@@ -14,7 +14,6 @@ The repository includes:
 - The full annotated dataset (JSON format)
 - Annotation guidelines
 - Pre-selection keyword matrix
-- Scripts for processing and modeling
 
 ## Dataset Summary
 
