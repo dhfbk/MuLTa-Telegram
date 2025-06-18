@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "text": "Mah che c'è ne frega a noi ?",
+    "Hate Speech Binary": 0,
+    "target": "NONE",
+    "topic": "NONE",
+        "lang":"it",
+    "split": "train"
+},
+  {
+    "id": 2,
+    "text": "che idioti....cmq, se avessero rifiutato di vendere ad un acquirente africano, sarebbe scoppiato il finimondo in quanto il,venditore sarebbe stato bollato come razzista. Spero fallisca.",
+    "Hate Speech Binary": 1,
+    "target": "Other",
+    "topic": [
+      "MIGRANTS",
+      "POC"
+    ],
+    "lang":"it",
+    "split": "train"
+},
+  {
+    "id": 3,
+    "text": "È possibile...al governo ci sono molti nazisti ebrei sionisti",
+    "Hate Speech Binary": 0,
+    "target": "NONE",
+    "topic": [
+      "JEWS"
+    ],
+    "lang":"it",
+    "split": "train"
+},
+  {
+    "id": 4,
+    "text": "Sul profilo ufficiale Instagram del presidente ucraino Volodimir Zelenskij è apparsa l’ennesima foto con propaganda della simbologia nazista...",
+    "Hate Speech Binary": 0,
+    "target": "NONE",
+    "topic": [
+      "JEWS"
+    ],
+    "lang":"it",
+    "split": "train"
+},
+  {
+    "id": 5,
+    "text": "#Italia #Elezioni2022 Il diciassettesimo partito ad aver depositato il logo è il partito GAY LGBT+.  @<user>",
+    "Hate Speech Binary": 0,
+    "target": "NONE",
+    "topic": [
+      "LGBT+"
+    ],
+    "lang":"it",
+    "split": "train"
+},
+  {
+    "id": 6,
+    "text": "Rifiuta la fascia arcobaleno “per motivi religiosi”, è gogna Lgbt contro Orkun Kokcu, capitano del Feyenoord.  <url>",
+    "Hate Speech Binary": 0,
+    "target": "NONE",
+    "topic": [
+      "LGBT+"
+    ],
+    "lang":"it",
+    "split": "train"
+},
+  {
+    "id": 7,
+    "text": "Vera Sharav 75 Anniversario Norimberga: L’umanità è attualmente sotto assedio da parte degli eredi globali dei nazisti...",
+    "Hate Speech Binary": 0,
+    "target": "NONE",
+    "topic": [
+      "JEWS"
+    ],
+    "lang":"it",
+    "split": "train"
+},
+  {
+    "id": 8,
+    "text": "A Mosca, nel 18° anniversario della tragedia di Beslan...",
+    "Hate Speech Binary": 0,
+    "target": "NONE",
+    "topic": "NONE",
+    "lang":"it",
+    "split": "train"
+},
+  {
+    "id": 9,
+    "text": "A che punto sono le indagini relative allo spygate?",
+    "Hate Speech Binary": 0,
+    "target": "NONE",
+    "topic": "NONE",
+    "lang":"it",
+    "split": "train"
+},
+  {
+    "id": 10,
+    "text": "👍🏻👍🏻👍🏻prendiamo nota di nome e cognome come dice  😉",
+    "Hate Speech Binary": 0,
+    "target": "NONE",
+    "topic": "NONE",
+        "lang":"it",
+    "split": "train"    
+  }
+]
+
