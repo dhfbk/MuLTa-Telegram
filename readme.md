@@ -47,8 +47,6 @@ Each message is also labeled for *topic relevance* independently of whether it i
 The dataset is publicly available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
 You are free to share and adapt the material for any purpose, provided appropriate credit is given.
 
-**Access the data here**: [https://github.com/dhfbk/MuLTa-Telegram](https://github.com/dhfbk/MuLTa-Telegram)
-
 
 ## Acknowledgements
 
