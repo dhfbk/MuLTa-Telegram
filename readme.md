@@ -6,7 +6,7 @@
 **MuLTa-Telegram** is a curated dataset comprising over 4,000 manually annotated messages collected from public Telegram channels in **Italian** and **Polish**. It is designed to support research in **hate speech detection**, with a particular focus on:
 - The presence or absence of hate speech
 - Identification of specific *target groups* of hate
-- Thematic categorization of each message’s content (*topics*)
+- Identification of the target groups in each message’s content (*mentioned group*)
 
 ## Contents
 
