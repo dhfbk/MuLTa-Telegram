@@ -31,7 +31,7 @@ Annotations cover 9 primary identity groups, including:
 - **People with disabilities**
 - **Other** or **No Target** (as applicable)
 
-Each message is also labeled for *topic relevance* independently of whether it is hateful.
+Each message is also labeled for *mentioned target group* independently of whether it is hateful.
 
 ## Methodology
 
