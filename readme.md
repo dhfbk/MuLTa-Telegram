@@ -49,4 +49,4 @@ You are free to share and adapt the material for any purpose, provided appropria
 
 ## Acknowledgements
 
-This work was supported by the European Union’s CERV fund under Grant Agreement No. 101143249 (HATEDEMICS).
+This work was supported by the European Union’s CERV fund under Grant Agreement No. 101143249 (HATEDEMICS) and the Horizon Europe research and innovation programme under Grant Agreement No. 101135437 (AI-CODE)
