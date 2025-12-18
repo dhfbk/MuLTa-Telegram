@@ -43,8 +43,8 @@ Each message is also labeled for *mentioned target group* independently of wheth
 
 ## Access and License
 
-The dataset is publicly available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
-You are free to share and adapt the material for any purpose, provided appropriate credit is given.
+The dataset is publicly available under the **Creative Commons Attribution Non-Commercial (CC BY NC)**.  
+You are free to share and adapt the material for research purposes, provided appropriate credit is given.
 
 
 ## Acknowledgements
